@@ -3104,5 +3104,18 @@
     "bajus_s21_vori": 5016,
     "bajus_s18_vori": 4432,
     "bajus_str_vori": 3266
+  },
+  {
+    "date": "2026-09-06",
+    "timestamp": "2026-09-06T11:46:14.144Z",
+    "data_source": "goldratebd",
+    "bajus_s22": null,
+    "bajus_s21": null,
+    "bajus_s18": null,
+    "bajus_str": null,
+    "bajus_s22_vori": null,
+    "bajus_s21_vori": null,
+    "bajus_s18_vori": null,
+    "bajus_str_vori": null
   }
 ]
