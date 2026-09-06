@@ -92,3 +92,19 @@
 [2026-09-06T16:03:56.310Z] [INFO ] Intl: no change — skipping append
 [2026-09-06T16:03:56.324Z] [INFO ] latest.json written | Final source: goldratebd
 [2026-09-06T16:03:56.325Z] [INFO ] ══════════════════════════════════════════════
+[2026-09-06T18:33:14.530Z] [INFO ] ══════════════════════════════════════════════
+[2026-09-06T18:33:14.533Z] [INFO ] SonarGold Scraper v4.1 starting...
+[2026-09-06T18:33:14.535Z] [INFO ] Mode: LIVE
+[2026-09-06T18:33:14.536Z] [INFO ] ══════════════════════════════════════════════
+[2026-09-06T18:33:14.541Z] [INFO ] History size — Gold: 258, Silver: 240, Intl: 354
+[2026-09-06T18:33:14.542Z] [INFO ] ════════════════════════════════
+[2026-09-06T18:33:14.543Z] [INFO ] Starting BAJUS scrape v4.1 (sequential)...
+[2026-09-06T18:33:14.545Z] [INFO ] Trying Strategy 1: goldratebd.com...
+[2026-09-06T18:33:15.735Z] [INFO ] ✓ goldratebd.com success: 22K gram ≈ 20790
+[2026-09-06T18:33:15.737Z] [INFO ] SUCCESS — Source: goldratebd
+[2026-09-06T18:33:15.738Z] [INFO ] Fetching international prices...
+[2026-09-06T18:33:16.250Z] [INFO ] Gold: updated same-day entry
+[2026-09-06T18:33:16.252Z] [INFO ] Silver: no change — skipping append
+[2026-09-06T18:33:16.254Z] [INFO ] Intl: no change — skipping append
+[2026-09-06T18:33:16.269Z] [INFO ] latest.json written | Final source: goldratebd
+[2026-09-06T18:33:16.270Z] [INFO ] ══════════════════════════════════════════════

@@ -3341,15 +3341,15 @@
   },
   {
     "date": "2026-09-06",
-    "timestamp": "2026-09-06T11:46:14.144Z",
+    "timestamp": "2026-09-06T18:33:14.542Z",
     "data_source": "goldratebd",
-    "bajus_g22": 20160,
-    "bajus_g21": 19255,
-    "bajus_g18": 16535,
-    "bajus_gtr": 13505,
-    "bajus_g22_vori": 235146,
-    "bajus_g21_vori": 224590,
-    "bajus_g18_vori": 192864,
-    "bajus_gtr_vori": 157522
+    "bajus_g22": 20790,
+    "bajus_g21": 19845,
+    "bajus_g18": 17010,
+    "bajus_gtr": 13855,
+    "bajus_g22_vori": 242495,
+    "bajus_g21_vori": 231472,
+    "bajus_g18_vori": 198405,
+    "bajus_gtr_vori": 161605
   }
 ]
