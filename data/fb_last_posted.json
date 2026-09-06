@@ -1,8 +1,8 @@
 {
-  "posted_at": "2026-09-06T11:47:00.838Z",
+  "posted_at": "2026-09-06T12:44:52.969Z",
   "gold": {
     "date": "2026-09-06",
-    "timestamp": "2026-09-06T11:46:14.144Z",
+    "timestamp": "2026-09-06T12:44:01.948Z",
     "data_source": "goldratebd",
     "bajus_g22": 20160,
     "bajus_g21": 19255,
@@ -21,7 +21,7 @@
   },
   "silver": {
     "date": "2026-09-06",
-    "timestamp": "2026-09-06T11:46:14.144Z",
+    "timestamp": "2026-09-06T12:44:01.948Z",
     "data_source": "goldratebd",
     "bajus_s22": null,
     "bajus_s21": null,
